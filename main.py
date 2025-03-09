@@ -1,9 +1,9 @@
 import subprocess, re, random, os, sys
 from turtledemo.sorting_animate import enable_keys
 
-libFolder = 'C:\\piplib'
-tgtFolder = 'C:\\piplib2'
-pipPath = 'C:\\Users\\admin\\PycharmProjects\\PythonProjects\\audioconv\\.venv\\Scripts\\pip.exe'
+libFolder = ''
+tgtFolder = ''
+pipPath = ''
 
 
 # A python class definition for printing formatted text on terminal.
