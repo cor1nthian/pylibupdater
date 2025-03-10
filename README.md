@@ -18,7 +18,7 @@ Script return codes:
 | 1 | Incorrrect lib folder argument specified |
 | 2 | Lib folder not not set and not specified as argument |
 | 3 | Incorrrect target folder argument specified  |
-| 4 | Target folderbot aet abd bot specified as argument |
+| 4 | Target folder not set and not specified as argument |
 | 5 | Incorrect pip path specified |
 | 6 | Pip path does bot exist and not apecified as argument |
 | 7 | No libs found in lib folder |
