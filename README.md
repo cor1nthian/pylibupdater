@@ -16,7 +16,7 @@ Script return codes:
 | --- | --- |
 | 0 | Successful execution |
 | 1 | Incorrrect lib folder argument specified |
-| 2 | Lib folderbot aet abd bot specified as argument |
+| 2 | Lib folderbot not set and not specified as argument |
 | 3 | Incorrrect target folder argument specified  |
 | 4 | Target folderbot aet abd bot specified as argument |
 | 5 | Incorrect pip path specified |
